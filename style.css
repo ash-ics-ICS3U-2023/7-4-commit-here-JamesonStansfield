@@ -6,6 +6,9 @@ html {
   div, button {
     margin: 4px;
     font-size:larger;
+    border-radius: 50px;
+    font-size: 30px;
+    padding: 10px;
   }
   
   .footer {
@@ -18,4 +21,3 @@ html {
     background-color: #EEEEEE;
     
   }
-  
